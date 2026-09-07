@@ -49,3 +49,5 @@ It then calculates and displays the total vacation budget.
 
 Screenshots of all three projects are included in this repository.
 <img width="1535" height="862" alt="Screenshot 2026-09-07 173843" src="https://github.com/user-attachments/assets/73347749-0b56-485a-b7bc-479b77abc42d" />
+<img width="1535" height="862" alt="Screenshot 2026-09-07 174334" src="https://github.com/user-attachments/assets/4d123816-4074-4e63-bbb7-4081e342fc6e" />
+<img width="1530" height="862" alt="Screenshot 2026-09-07 174723" src="https://github.com/user-attachments/assets/70bac4a5-cc68-4ac5-bff7-e51d2152c988" />

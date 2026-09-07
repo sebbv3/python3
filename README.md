@@ -3,6 +3,8 @@
 Python learning repository with beginner projects and exercises.
 
 # Python 3 Learning
+<img width="1535" height="862" alt="Screenshot 2026-09-07 173843" src="https://github.com/user-attachments/assets/de674a70-56e0-4489-bdab-8670a5d24ac7" />
+<img width="1535" height="862" alt="Screenshot 2026-09-07 174334" src="https://github.com/user-attachments/assets/1d9fab17-9f11-45d0-a85b-1a5e8fe1417f" />
 
 Personal Python learning repository.
 

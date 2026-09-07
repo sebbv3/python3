@@ -1,3 +1,4 @@
+<img width="1530" height="862" alt="Screenshot 2026-09-07 174723" src="https://github.com/user-attachments/assets/0972c4fd-2ba1-48b1-a4a8-d52ef282458e" />
 # python3
 Python learning repository with beginner projects and exercises.
 
@@ -73,3 +74,4 @@ It then calculates and displays the total vacation budget.
 - `if / elif / else`
 - Basic user interaction
 
+<img width="1530" height="862" alt="Screenshot 2026-09-07 174723" src="https://github.com/user-attachments/assets/a70aa0a1-a1b0-4e25-b31f-39b33f68dfa7" />
